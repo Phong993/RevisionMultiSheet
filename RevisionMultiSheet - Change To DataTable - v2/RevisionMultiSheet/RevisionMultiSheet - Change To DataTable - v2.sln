@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisionMultiSheet", "RevisionMultiSheet\RevisionMultiSheet.csproj", "{65744A1A-BE85-4480-9881-96AAC471A68C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RevisionMultiSheet_Setup", "RevisionMultiSheet_Setup\RevisionMultiSheet_Setup.vdproj", "{C3A4D4A9-B671-4432-A2C2-CB292FF3AC64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65744A1A-BE85-4480-9881-96AAC471A68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65744A1A-BE85-4480-9881-96AAC471A68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65744A1A-BE85-4480-9881-96AAC471A68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65744A1A-BE85-4480-9881-96AAC471A68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A4D4A9-B671-4432-A2C2-CB292FF3AC64}.Debug|Any CPU.ActiveCfg = Debug
+		{C3A4D4A9-B671-4432-A2C2-CB292FF3AC64}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46473596-0BA5-47A2-821C-BC8E34BF03F9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RevisionMultiSheet_2017</Text>
+    <Description>Revision_Multi_Sheet</Description>
+    <Assembly>RevisionMultiSheet\RevisionMultiSheet.dll</Assembly>
+    <FullClassName>RevisionMultiSheet.Command</FullClassName>
+    <ClientId>43319a58-93a7-4ad4-a056-a97b627b831b</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <!--<AddIn Type="Application">
+    <Name>Application RevisionMultiSheet</Name>
+    <Assembly>RevisionMultiSheet.dll</Assembly>
+    <FullClassName>RevisionMultiSheet.App</FullClassName>
+    <ClientId>404eb432-dc12-4270-bd4d-9bb63bd7d481</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>-->
+</RevitAddIns>
